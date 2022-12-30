@@ -19,6 +19,6 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^14.0.13",
-    "formiojs": "^4.10.4"
+    "formiojs": "^4.14.11"
   }
 }
